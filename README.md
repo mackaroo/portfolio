@@ -10,7 +10,7 @@
 - [ ] Cut cat's nails
 - [ ] Finish ***ALL*** laundry: 
   - [ ] Towels
-  - [ ] Lingerie - get washing bag?
+  - [ ] Lingerie
   - [ ] Underwear
   - [ ] Casuals - colors
   - [ ] Casuals - whites
