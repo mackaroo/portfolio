@@ -13,6 +13,8 @@
   - [ ] Underwear
   - [ ] Casuals - colors
   - [ ] Casuals - whites
+  - [ ] Sheets/duvet cover/pillowcases
+  - [ ] Blankets
 
 ## Surgery Prep: 
 
