@@ -4,6 +4,9 @@
 - [ ] Change cat water fountain filter
 - [ ] Vacuum, vacuum, vacuum
 - [ ] Clean whole closet and cat litter boxes 
+- [ ] Clean whole bedroom
+- [ ] Organize bedroom 
+- [ ] Clear out pathway in bedroom 
 - [ ] Finish all laundry: 
   - [ ] Towels
   - [ ] Lingerie - get washing bag?
