@@ -7,7 +7,8 @@
 - [ ] Clean whole bedroom
 - [ ] Organize bedroom 
 - [ ] Clear out pathway in bedroom 
-- [ ] Finish all laundry: 
+- [ ] Cut cat's nails
+- [ ] Finish ***ALL*** laundry: 
   - [ ] Towels
   - [ ] Lingerie - get washing bag?
   - [ ] Underwear
