@@ -1,4 +1,5 @@
-To-do Pre-surgery:
+## To-do Pre-surgery:
+
 - [ ] Make bridesmaid dress tailor appointment
 - [ ] Change cat water fountain filter
 - [ ] Vacuum, vacuum, vacuum
@@ -10,7 +11,8 @@ To-do Pre-surgery:
   - [ ] Casuals - colors
   - [ ] Casuals - whites
 
-Surgery Prep: 
+## Surgery Prep: 
+
 - [ ] Buy long USB-C 3.0 cable
 - [ ] Buy bed wedge pillow 
 - [ ] Buy/find button-up or zip-up hoodie to wear after surgery
