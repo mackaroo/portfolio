@@ -19,6 +19,7 @@
 
 ## Surgery Prep: 
 
+- [ ] Handheld shower head? (See if shower is compatible)
 - [ ] Buy long USB-C 3.0 cable
 - [ ] Buy bed wedge pillow 
 - [ ] Buy/find button-up or zip-up hoodie to wear after surgery
